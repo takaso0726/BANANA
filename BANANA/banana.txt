@@ -1,0 +1,16 @@
+[あなたのプロジェクトフォルダ]/
+├── Config/                  → 📦 残す
+├── Content/                 → 📦 残す
+├── Source/                  → 📦 残す
+├── [プロジェクト名].uproject→ 📦 残す
+├── .vsconfig                → 📦 残す（容量はほぼゼロなので残すのが安全）
+│
+├── .vs/                     → ❌ 消す（重いキャッシュ）
+├── [プロジェクト名].sln     → ❌ 消す
+├── Binaries/                → ❌ 消す
+├── DerivedDataCache/        → ❌ 消す
+├── Intermediate/            → ❌ 消す
+└── Saved/                   → ❌ 消す）
+
+https://github.com/takaso0726/BANANA.git
+

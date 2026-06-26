@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.BANANA.gen.cpp.obj": [
+			"BANANA.init.gen.cpp.obj",
+			"MyCharacter.gen.cpp.obj"
+		]
+	}
+}
